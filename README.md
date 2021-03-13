@@ -165,6 +165,7 @@ for epoch in range(epoches):
 
 ### Result
 
+![](https://i.imgur.com/KmMCoqr.png)
 
 ## ResNet50 Pretrained Model
 
@@ -255,7 +256,13 @@ model.save('RESnetCNN.h5')
 
 ### Result
 
+![](https://i.imgur.com/MuUzrnF.png)
 
+![](https://i.imgur.com/tESTcdT.png)
+
+## Kaggle Score
+
+![](https://i.imgur.com/7V3UJb9.png)
 
 ## Resource
 
